@@ -1,4 +1,0 @@
-# sagar-demo
-FIRST GIT REPOSITORY.
-<br>
-OWNER - SAGAR SINGH (entreprenaur)
